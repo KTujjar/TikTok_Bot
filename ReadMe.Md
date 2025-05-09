@@ -1,18 +1,27 @@
 # TikTok_Bot
 
-## install the python directories
+## Install the python libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## create a folder in your google profiles for the bot
+## Create profile folder
 
-create a folder called SeleniumProfile
+Create a folder called SeleniumProfile in the cloned repo folder.
 
-## run this command in command prompt to run this chrome profile and login to your tiktok account 
+## Start Chrome
 
 ```bash
-start chrome.exe --user-data-dir="C:\Users\Khale\AppData\Local\Google\Chrome\SeleniumProfile"
+start chrome.exe --user-data-dir="[PATH TO PROFILE FOLDER]"
+```
+## Add URLs
+
+Paste some TikTok urls in the urls.txt file for the bot to navigate to.
+
+## Run the bot
+
+```bash
+python main.py
 ```
 	
