@@ -7,10 +7,9 @@
 
 ## create a folder in your google profiles for the bot
 
-	create a folder called SeleniumProfile
+	#create a folder called SeleniumProfile
 
 ## run this command in command prompt to run this chrome profile and login to your tiktok account
-
-	```bash
+	
 	start chrome.exe --user-data-dir="C:\Users\Khale\AppData\Local\Google\Chrome\SeleniumProfile"
-	```
+	
