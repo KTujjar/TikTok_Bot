@@ -2,9 +2,8 @@
 
 ## install the python directories
 
-	```bash
 	pip install -r requirements.txt
-	```
+	
 
 ## create a folder in your google profiles for the bot
 
